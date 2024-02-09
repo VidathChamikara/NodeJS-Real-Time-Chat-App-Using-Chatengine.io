@@ -1,1 +1,1 @@
-# MERN_Real_Time_Chat_App
+Using React Chat Engine with Node Backend for develop this chat app.
